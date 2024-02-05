@@ -5,4 +5,4 @@
 - 😄 Qualités Capacité d'adaptation, Travail en équipe, Sens de la communication, Curiosité, Sociabilité, Esprit logique.
 - ⚡ Je suis actuellement à l'école d'ingenieur CESI
 
-Mon linkedind
+Mon linkedind: https://www.linkedin.com/in/mathias-bailet-205576279/
