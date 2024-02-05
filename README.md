@@ -1,8 +1,13 @@
-- 👋 Bonjour je suis Mathias Bailet j'ai 18 ans et je suis en première année de développement informatique
-- 👀 Mes hobbies sont les jeux vidéos, la photo et la vidéo, la musique (je fait du piano et de la batterie), apprendre de nouvelles choses et sortir avec mes amis
-- 🌱 Je suis en apprentissage du développement informatique SQL, PHP, HTML, CSS, Python, C
-- 📫 Comment me contacter ? Via mail mathiasbailet6@gmail.com Numéro de téléphone 0767240055
-- 😄 Qualités Capacité d'adaptation, Travail en équipe, Sens de la communication, Curiosité, Sociabilité, Esprit logique.
-- ⚡ Je suis actuellement à l'école d'ingenieur CESI
+- 👋 Hello, I'm Mathias Bailet, 18 years old, and I'm in my first year of computer development studies.
 
-Mon linkedind: https://www.linkedin.com/in/mathias-bailet-205576279/
+- 👀 My hobbies include video games, photography, videography, music (I play piano and drums), learning new things, and hanging out with friends.
+
+- 🌱 I'm currently learning computer development including SQL, PHP, HTML, CSS, Python, and C.
+
+- 📫 You can contact me via email at mathiasbailet6@gmail.com or by phone at 0767240055.
+
+- 😄 Qualities: Adaptability, Teamwork, Communication Skills, Curiosity, Sociability, Logical Thinking.
+
+- ⚡ I'm currently studying at CESI engineering school.
+
+- You can find me on LinkedIn: [Mathias Bailet's LinkedIn Profile](https://www.linkedin.com/in/mathias-bailet-205576279/)
