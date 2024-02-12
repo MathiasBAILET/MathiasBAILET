@@ -9,4 +9,3 @@
 - ⚡ I'm currently studying at CESI engineering school.
 
 - You can find me on LinkedIn: [Mathias Bailet's LinkedIn Profile](https://www.linkedin.com/in/mathias-bailet-205576279/)
-- 
